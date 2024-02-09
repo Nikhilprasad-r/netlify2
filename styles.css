@@ -1,0 +1,11 @@
+.internalForm{
+    margin: 30px 40px;
+    border:1px solid blueviolet;
+    padding: 20px;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+.externalBox{
+display:flex;
+flex-wrap:wrap;
+
+}
